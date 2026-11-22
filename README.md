@@ -16,6 +16,7 @@ The examples are organized by topic:
 | [`functions/`](./functions/) | Function declarations, definitions, arguments, return values, and pass-by-reference |
 | [`preprocessors/`](./preprocessors/) | Preprocessor constants, macros, and conditional compilation |
 | [`programs/`](./programs/) | Practical examples such as searching, sorting-related exercises, calculators, recursion, and string handling |
+| [`_notes/`](./_notes/) | Comprehensive Learning Notes |
 
 The repository also contains [`c-visualizer/`](./c-visualizer/), an interactive browser-based simulator for supported `for` loops and conditional statements. See its [README](./c-visualizer/README.md) for setup and usage details.
 
